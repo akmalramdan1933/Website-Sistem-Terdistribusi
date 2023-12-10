@@ -1,2 +1,2 @@
 # Website-Sistem-Terdistribusi
-Wrbsite Pengumpulan Tugas Mata Kuliah Sistem Terdistribusi
+Website Pengumpulan Tugas Mata Kuliah Sistem Terdistribusi
